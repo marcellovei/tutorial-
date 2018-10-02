@@ -1,2 +1,2 @@
 1st commit 
-"change added in dazzling_feature branch."
+"change made in master branch."
